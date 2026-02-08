@@ -1,0 +1,11 @@
+latitude,longitude,roadName,dailyTraffic,evPercentage,trend
+37.7849,-122.4094,Highway 101 North,8500,12,up
+37.7649,-122.4194,Market Street,6200,15,up
+37.7949,-122.3994,Bay Bridge Approach,4800,8,stable
+37.7549,-122.4394,Van Ness Avenue,5200,18,up
+37.7849,-122.4244,Mission Street,7300,14,up
+37.7749,-122.4144,Geary Boulevard,4900,10,stable
+37.7650,-122.4094,Lombard Street,3200,22,up
+37.7950,-122.4244,Castro Street,2800,25,up
+37.7550,-122.4144,Fillmore Street,4100,16,stable
+37.7850,-122.3994,Embarcadero,6800,13,up
